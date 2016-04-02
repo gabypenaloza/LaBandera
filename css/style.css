@@ -1,0 +1,25 @@
+.amarillo{
+	      background-color: yellow;
+}
+
+.rojo{
+	background-color: red;
+}
+
+div{
+	width: 25%;
+	height: 25%;
+	margin-left: 2%;
+	font-size: 140%;
+	padding: 2%;
+	display: inline;
+	}
+
+.may{
+	text-transform: uppercase;
+}
+
+p{
+   text-align: center;
+   display: inline;
+}
